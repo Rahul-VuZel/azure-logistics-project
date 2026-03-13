@@ -1,0 +1,56 @@
+shipment_id,warehouse,delivery_time,status
+1001,NY,6,Delayed
+1002,IL,8,In Transit
+1003,TX,9,In Transit
+1004,IL,4,Delivered
+1005,TX,1,Delivered
+1006,FL,6,In Transit
+1007,NY,10,In Transit
+1008,TX,1,Delayed
+1009,IL,1,In Transit
+1010,IL,4,Delayed
+1011,CA,5,Delayed
+1012,NY,5,Delayed
+1013,CA,3,In Transit
+1014,FL,10,In Transit
+1015,CA,4,Delivered
+1016,FL,4,In Transit
+1017,WA,4,Delayed
+1018,CA,3,In Transit
+1019,IL,7,Delivered
+1020,NY,8,Delivered
+1021,IL,7,Delayed
+1022,WA,8,Delayed
+1023,IL,1,Delayed
+1024,NY,4,Delayed
+1025,IL,9,In Transit
+1026,FL,4,Delivered
+1027,NY,8,Delayed
+1028,TX,3,In Transit
+1029,FL,10,Delivered
+1030,IL,8,Delivered
+1031,TX,7,In Transit
+1032,IL,8,Delivered
+1033,IL,6,Delayed
+1034,IL,1,Delivered
+1035,WA,2,Delivered
+1036,IL,9,Delivered
+1037,FL,10,Delivered
+1038,CA,5,In Transit
+1039,FL,9,In Transit
+1040,TX,7,Delayed
+1041,TX,7,Delivered
+1042,TX,10,Delivered
+1043,IL,5,In Transit
+1044,CA,6,Delivered
+1045,FL,9,Delayed
+1046,IL,9,Delayed
+1047,WA,3,Delivered
+1048,FL,9,In Transit
+1049,CA,9,Delivered
+1050,TX,6,Delivered
+1051,CA,5,Delivered
+1052,FL,9,In Transit
+1053,CA,6,In Transit
+1054,NY,3,In Transit
+1055,TX,4,Delayed
