@@ -3,8 +3,7 @@ import os
 import logging
 
 # Azure connection string
-connection_string = "DefaultEndpointsProtocol=https;AccountName=logisticsstoragedemo;AccountKey=AZURE_STORAGE_KEY_REMOVED==;EndpointSuffix=core.windows.net"
-
+connection_string = os.environ.get("AZURE_STORAGE_CONNECTION_STRING")
 container_name = "raw-data"
 folder_path = "./datasets"
 
